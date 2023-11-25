@@ -1,0 +1,2 @@
+Sirve para especificar que rutas estan protegidas contra usuarios especificados.
+Es para evitar que cualquiera obtenga informacion de una url.

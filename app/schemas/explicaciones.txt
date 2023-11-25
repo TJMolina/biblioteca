@@ -1,0 +1,1 @@
+aca se crean las condiciones que debe tener un formulario antes de interactuar con un documento de las colecciones de mongodb.

@@ -1,0 +1,1 @@
+Aca se crean modelos de colecciones para generar documentos de mongodb.
